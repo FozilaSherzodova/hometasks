@@ -206,3 +206,4 @@ where emp_lname in ('Gabriel', 'Dosio')
 select * from emp_details
 where emp_dept in (89, 63)
 
+
